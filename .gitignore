@@ -51,7 +51,7 @@ build-*/
 .obsidian/cache/*
 .obsidian/plugins/*
 .obsidian/community-plugins.json
-.obsidian/*
+*.obsidian
 # Build files
 *.o
 *.out
