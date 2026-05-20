@@ -44,6 +44,26 @@ build/
 Build/
 build-*/
 
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/cache/*
+.obsidian/plugins/*
+.obsidian/community-plugins.json
+
+# Build files
+*.o
+*.out
+program
+
+# C++ binaries
+a.out
+
+# Temporary
+*.tmp
+*.swp
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt

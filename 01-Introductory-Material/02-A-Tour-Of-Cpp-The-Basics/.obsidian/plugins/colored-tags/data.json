@@ -1,0 +1,34 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "abstraction": 13,
+    "bug": 16,
+    "compilation": 4,
+    "concept": 1,
+    "controlflow": 10,
+    "cpp": 2,
+    "fundamentals": 3,
+    "helloworld": 5,
+    "include": 6,
+    "learning": 18,
+    "memory": 11,
+    "modularity": 15,
+    "oop": 12,
+    "optimization": 9,
+    "softwareengineering": 14,
+    "templates": 17,
+    "types": 7,
+    "variables": 8
+  },
+  "tagColors": {},
+  "_version": 4
+}
